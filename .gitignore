@@ -1,0 +1,21 @@
+# Visual Studio / .NET build
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.pdb
+TestResults/
+packages/
+# Local settings and private data
+.env
+.env.*
+*.pfx
+*.pem
+*.key
+*.secrets.json
+appsettings.*.local.json
+**/MachineConfig/
+**/Recipes/
+**/Calibration/
+**/ProductionData/

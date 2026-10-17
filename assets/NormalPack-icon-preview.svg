@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="NormalPack stylized N and camera icon">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a2a56"/><stop offset="1" stop-color="#05111f"/></linearGradient><linearGradient id="n" x2="1" y2="1"><stop stop-color="#f2faff"/><stop offset=".48" stop-color="#3f9fff"/><stop offset="1" stop-color="#0075eb"/></linearGradient></defs>
+<rect x="8" y="8" width="496" height="496" rx="92" fill="url(#bg)" stroke="#59b7ff" stroke-width="8"/>
+<path d="M95 361 L154 133 L209 133 L321 316 L371 133 L426 133 L355 361 L300 361 L188 182 L145 361 Z" fill="url(#n)"/>
+<rect x="278" y="286" width="174" height="168" rx="20" fill="#071b36"/>
+<path d="M301 340 V308 Q301 299 313 299 H348 M405 299 H419 Q428 299 428 310 V337 M428 405 V419 Q428 430 417 430 H400 M348 430 H316 Q301 430 301 418 V402" fill="none" stroke="#e0f2ff" stroke-width="16" stroke-linecap="round"/>
+<circle cx="366" cy="366" r="38" fill="#b9e2ff"/><circle cx="366" cy="366" r="24" fill="#2086ef"/>
+</svg>
